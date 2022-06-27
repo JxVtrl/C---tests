@@ -30,7 +30,7 @@ string Name::getName(void){
 int main() {
     Name newName;
     newName.setName("Joao");
-    cout << "Nome: " << newName.getName() << endl;
-    
+    cout << "Name: " << newName.getName() << endl;
+
     return 0;
 }
